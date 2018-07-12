@@ -1,0 +1,8 @@
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\bin\Debug\Library Calc.dll
+C:\Users\hunte\OneDrive\Documentos2\Entidades\Entidades\bin\Debug\Library Calc.pdb

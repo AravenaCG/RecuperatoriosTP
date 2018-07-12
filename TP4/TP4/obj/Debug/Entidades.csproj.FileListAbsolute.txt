@@ -1,0 +1,20 @@
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\Entidades.FrmPpal.resources
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\Entidades.csproj.GenerateResource.Cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\Entidades.FrmPpal.resources
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\bin\Debug\TP4.dll.config
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\bin\Debug\TP4.dll
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\bin\Debug\TP4.pdb
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\TP4.dll
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP4\TP4\obj\Debug\TP4.pdb
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\obj\Debug\TP4.dll
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\obj\Debug\TP4.pdb
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\bin\Debug\TP4.dll.config
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\bin\Debug\TP4.dll
+C:\Users\hunte\Desktop\RecuperatoriosTP\TP4\TP4\bin\Debug\TP4.pdb

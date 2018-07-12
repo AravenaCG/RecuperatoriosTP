@@ -1,0 +1,26 @@
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2012\Projects\MiCalculadora\MiCalculadora\bin\Debug\Library Calc.dll
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2012\Projects\MiCalculadora\MiCalculadora\bin\Debug\Library Calc.pdb
+C:\Users\hunte\Downloads\tp2\Esquema-TP-02\TP-02\tp2Laboratorio2\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\hunte\Downloads\tp2\Esquema-TP-02\TP-02\tp2Laboratorio2\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\hunte\Downloads\tp2\Esquema-TP-02\TP-02\tp2Laboratorio2\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\bin\Debug\Library Calc.pdb
+C:\Users\hunte\Desktop\tp\tp2Laboratorio2-master\tp2Laboratorio2-master\TP1\MiCalculadora-master\MiCalculadora-master\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

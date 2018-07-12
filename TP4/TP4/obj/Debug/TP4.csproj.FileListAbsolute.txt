@@ -1,0 +1,4 @@
+c:\users\hunte\onedrive\documentos2\visual studio 2012\Projects\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\TP4.csprojResolveAssemblyReference.cache
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\TP4.FrmPpal.resources
+C:\Users\hunte\OneDrive\documentos2\visual studio 2012\Projects\TP4\TP4\obj\Debug\TP4.csproj.GenerateResource.Cache
