@@ -1,0 +1,30 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
+C:\Users\airi\Desktop\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll.config
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.pdb
+D:\Ariel\clasesprogramacion2\Etc\_04\TP_04\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\bin\Debug\Entidades.dll
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\bin\Debug\Entidades.pdb
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\obj\Debug\Entidades.dll
+C:\Users\hunte\Desktop\tp\tp_laboratorio_2-master\tp_laboratorio_2-master\TP_04\Entidades\obj\Debug\Entidades.pdb

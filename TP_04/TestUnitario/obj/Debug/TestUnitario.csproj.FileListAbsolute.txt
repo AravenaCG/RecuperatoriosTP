@@ -1,0 +1,7 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\Etc\_04\TP_04\TestUnitario\obj\Debug\TestUnitario.pdb

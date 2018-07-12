@@ -1,0 +1,10 @@
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+D:\Ariel\UTN\Prog-Lab II\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ari\Desktop\clasesprogramacion2\TP\TP_01\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
